@@ -1,2 +1,2 @@
-# fred.py
+# fred
 assignment 1
